@@ -1,0 +1,13 @@
+To create makefile
+Juste create a file named "makefile"
+
+to launch it:
+plac yourself in root folder
+execute make <target>
+
+makefile syntax:
+"[]" means optional
+\t is important cause it is separator
+
+<target>: <FileCausingAction> [<dependenciesFile1>, <dependenciesFile1>, ...]
+\tCommands
